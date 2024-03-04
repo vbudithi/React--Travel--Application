@@ -1,10 +1,20 @@
-# Installing React + Vite
+# React Travel Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Travel and Tour application built using React + vite.
 
--- npm create vite@latest . (Vite supports above Node.js 18 and above versions )
--- npm install (Install npm packages)
--- npm run dev (For running application in Local)
+Created using Template [React+Vite](https://vitejs.dev/guide/)
+
+# Installation Process
+
+1) npm create vite@latest . (Vite supports above Node.js 18 and above versions )
+
+2) npm install (Install npm packages)
+
+3) npm run dev (For running application in Local)
+
+
+
+
 
 
 
