@@ -12,6 +12,9 @@ Created using Template [React+Vite](https://vitejs.dev/guide/)
 
 3) npm run dev (For running application in Local)
 
+# Fonts
+
+ [Google Fonts ](https://fonts.google.com/)
 
 
 
